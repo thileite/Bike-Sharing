@@ -12,3 +12,17 @@ Os principais pontos que serão verificados neste trabalho:
 * Criação de dicionários e mapeamento de variáveis
 * Uso de lógica com o if
 * Manipulação de dados e criação de gráficos simples com o Pandas
+
+# Bibliotecas necessárias 
+
+Aqui estão as bibliotecas utilizadas para a conclusão do projeto:
+
+
+* matplotlib 
+* csv
+* datetime 
+* numpy 
+* pandas 
+* babs_datacheck 
+* babs_visualizations 
+* IPython.display 
