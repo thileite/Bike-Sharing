@@ -1,4 +1,4 @@
-# Bike_share_project
+# Bike Share Project
 
 
 Projeto final do curso Nanodegree Fundamentos de Data Science I da Udacity, com os dados fornecidos pela empresa Bay Area Bike Share, empresa essa que fornece aluguel de bikes em São Francisco, Redwood City, Palo Alto, Mountain View e San Jose.
